@@ -1,8 +1,8 @@
 <template>
-    <div class="bg-slate-50 h-full p-4">
+    <div class=" h-full">
 
         <Info />
-        <AboutMe />
+        <!-- <AboutMe /> -->
         <Programming />
         <Education />
     </div>

@@ -1,5 +1,5 @@
 <template>
-    <main class="h-full px-32 py-16">
+    <main class="h-full">
         <slot />
     </main>
 </template>

@@ -17,6 +17,8 @@ module.exports = {
       },
       gridTemplateColumns: {
         'resume-experience': '1fr 3fr',
+      },
+      colors: {
       }
     },
   },
