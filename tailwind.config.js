@@ -14,6 +14,7 @@ module.exports = {
       },
       gridTemplateRows: {
         'resume-info': '5fr 8fr',
+        'resume-grid': '1fr 3fr'
       },
       gridTemplateColumns: {
         'resume-experience': '1fr 3fr',
