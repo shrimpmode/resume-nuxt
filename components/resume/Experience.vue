@@ -24,16 +24,16 @@
                         - Develop Back End, and Front End features.
                     </li>
                     <li>
-                        - Code Reviews
+                        - Help improve the codebase by performing code reviews and refactor code.
                     </li>
                     <li>
-                        - Refactor Code.
+                        - Help improve quality by writing unit tests 
                     </li>
                     <li>
                         - Tech Talks.
                     </li>
                     <li>
-                        - Develop design system components library
+                        - Develop design system components library in React.
                     </li>
                 </ul>
             </div>
