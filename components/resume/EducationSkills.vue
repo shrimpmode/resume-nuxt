@@ -22,28 +22,79 @@
 
             <div class="mt-4">
                 <div class="text-lg flex gap-1 items-center">
-                    <JavascriptIcon /> Javascript
+                    <span class="w-9">
+                        <JavascriptIcon />
+                    </span>
+                    Javascript
                 </div>
                 <div class="text-lg flex gap-1 items-center">
-                    <Typescript /> Typescript
+                    <span class="w-9">
+                        <Typescript /> 
+                    </span>
+                    Typescript
                 </div>
                 <div class="text-lg flex gap-1 items-center">
-                    <React /> React
+                    <span class="w-9">
+                        <React /> 
+                    </span>
+                    React
                 </div>
                 <div class="text-lg flex gap-1 items-center">
-                    <VueIcon /> Vue
+                    <span class="w-9">
+                        <VueIcon /> 
+                    </span>
+                    Vue
                 </div>
                 <div class="text-lg flex gap-1 items-center">
-                    <PythonIcon /> Python
+                    <span class="w-9">
+                        <PythonIcon /> 
+                    </span>
+                    Python
                 </div>
                 <div class="text-lg flex gap-1 items-center">
-                    <Django /> Django
+                    <span class="w-9">
+                        <Django /> 
+                    </span>
+                        Django
+
                 </div>
                 <div class="text-lg flex gap-1 items-center">
-                    <GraphqlIcon /> Graphql
+                    <span class="w-9">
+                        <GraphqlIcon /> 
+                    </span>
+                    Graphql
                 </div>
                 <div class="text-lg flex gap-1 items-center">
-                    <Postgresql /> Postgresql
+                    <span class="w-9">
+                        <Postgresql /> 
+                    </span>
+                    Postgresql
+                </div>
+            </div>
+        </div>
+        <div class="mt-4">
+            <div class="text-xl tracking-wider">
+                SOFT SKILLS
+            </div>
+
+            <div class="mt-4">
+                <div class="text-lg flex gap-1 items-center">
+                    - Communication and collaboration
+                </div>
+                <div class="text-lg flex gap-1 items-center">
+                    - Empathy with client
+                </div>
+                <div class="text-lg flex gap-1 items-center">
+                    - Curiosity
+                </div>
+                <div class="text-lg flex gap-1 items-center">
+                    - Fast learner
+                </div>
+                <div class="text-lg flex gap-1 items-center">
+                    - Flexibility
+                </div>
+                <div class="text-lg flex gap-1 items-center">
+                    - Team player
                 </div>
             </div>
         </div>

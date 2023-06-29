@@ -6,11 +6,14 @@
 
         <div class="mt-4">
             <div class="font-semibold">
-                SOFTWARE ENGINEER
+                Thoropass, Inc | Fulltime Remote 
             </div>
 
             <div>
-                Thoropass, Inc | Fulltime Remote | 2021 - Current
+                Software Engineer, Nov 2021 - Current
+            </div>
+            <div>
+                Thoropass is a New York based compliance start up.
             </div>
             <div class="mt-4">
                 <div class="font-semibold">
