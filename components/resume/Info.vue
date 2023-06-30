@@ -1,7 +1,7 @@
 <template>
     <div class="flex justify-between flex-col md:flex-row">
         <div class="text-5xl font-mono mb-4 md:mb-0">
-            <span class="font-light">
+            <span>
                 Julio Cesar
             </span>
             <br />

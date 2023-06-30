@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="mt-4 md:mt-0">
         <div class="text-xl tracking-wider">
             WORK EXPERIENCE
         </div>
@@ -40,11 +40,14 @@
         </div>
         <div class="mt-4">
             <div class="font-semibold">
-                SOFTWARE ENGINEER
+                Encora | Nov 2020 - Nov 2021
             </div>
 
             <div>
-                Encora | Fulltime Remote | 2020 - 2021
+                Software Engineer , Fulltime Remote 
+            </div>
+            <div>
+                Encora is a software engineering consultant company.
             </div>
             <div class="mt-4">
                 <div class="font-semibold">
@@ -52,24 +55,28 @@
                 </div>
                 <ul>
                     <li>
-                        - Develop Back End, and Front End features.
+                        - Software Engineer assigned to the Laika (now Thoropass) project.
                     </li>
                     <li>
-                        - Code Reviews
+                        - Full stack development. 
                     </li>
                     <li>
-                        - Refactor Code.
+                        - Code reviews, code refactor.
                     </li>
                 </ul>
             </div>
         </div>
         <div class="mt-4">
             <div class="font-semibold">
-                SOFTWARE ENGINEER
+                Globant | Apr 2019 , Nov 2020
             </div>
 
             <div>
-                Globant | Fulltime | 2019 - 2020
+                Software Engineer | Full time
+            </div>
+            <div>
+                Globant is a software engineering consultant company. <br />
+                At Globant I worked alongside the Autodesk Team.
             </div>
             <div class="mt-4">
                 <div class="font-semibold">
@@ -77,24 +84,30 @@
                 </div>
                 <ul>
                     <li>
-                        - Develop Back End, and Front End features.
+                        - Develop Front End features with Vue.js and React.
                     </li>
                     <li>
-                        - Code Reviews
+                        - Code Reviews.
                     </li>
                     <li>
-                        - Refactor Code.
+                        - Develop pixel perfect components in React.
+                    </li>
+                    <li>
+                        - Volunteer in tech events.
                     </li>
                 </ul>
             </div>
         </div>
         <div class="mt-4">
             <div class="font-semibold">
-                JUNIOR SOFTWARE ENGINEER
+                Arya Peru | Aug 2017 - Apr 2018
             </div>
 
             <div>
-                Arya Peru | Fulltime | 2017 - 2018
+                JUNIOR SOFTWARE ENGINEER , Fulltime
+            </div>
+            <div>
+                Arya Peru is a digital marketing agency based in Lima, Peru.
             </div>
             <div class="mt-4">
                 <div class="font-semibold">
@@ -102,13 +115,13 @@
                 </div>
                 <ul>
                     <li>
-                        - Develop Back End, and Front End features.
+                        - Back End development with Laravel.
                     </li>
                     <li>
-                        - Code Reviews
+                        - Front End development with Vue.js.
                     </li>
                     <li>
-                        - Refactor Code.
+                        - Develop apps with conversational APIs.
                     </li>
                 </ul>
             </div>
