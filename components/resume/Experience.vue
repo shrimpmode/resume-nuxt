@@ -100,6 +100,33 @@
         </div>
         <div class="mt-4">
             <div class="font-semibold">
+                Hadas Peru | Apr 2018 - Oct 2018
+            </div>
+            <div>
+                Junior Software Engineer | Full time
+            </div>
+            <div>
+                Hadas Peru is a digital platform to find cleaning professionals. 
+            </div>
+            <div class="mt-4">
+                <div class="font-semibold">
+                    Tasks and responsibilities executed:
+                </div>
+                <ul>
+                    <li>
+                        - Front end development with Nuxt.js framework.
+                    </li>
+                    <li>
+                        - Migrate old full stack app to Nuxt.js.
+                    </li>
+                    <li>
+                        - Build admin page.
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="mt-4">
+            <div class="font-semibold">
                 Arya Peru | Aug 2017 - Apr 2018
             </div>
 
